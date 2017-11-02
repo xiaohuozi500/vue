@@ -1,0 +1,9 @@
+html{
+	font-size: 20px;
+}
+#app{
+	width: 18.75rem;
+	height: auto;
+	display: inline-block;
+	background: #e1e1e1;
+}

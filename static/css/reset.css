@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	font-size: 16px;
+	font-family: 微软雅黑;
+}
+body{
+	background: #e1e1e1;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #778087;
+}
